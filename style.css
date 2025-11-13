@@ -1,0 +1,131 @@
+body {
+    background-color: tan
+}
+
+p {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: maroon;
+}
+
+h2 {
+    color: maroon
+}
+
+.img_officeimage1 {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    left: 360px;
+    bottom: 332px;
+    
+}
+
+.img_officeimage1_tab {
+    position: relative;
+    text-align: center;
+    width: 150px;
+    height: 25px;
+    left: px;
+    bottom: 880px;
+    background-color: peru;
+}
+
+.img_writerimage {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    left: 90px;
+    bottom: 83px;
+}
+
+.img_writerimage_tab {
+    position: relative;
+    text-align: center;
+    width: 150px;
+    height: 25px;
+    left: 182px;
+    bottom: 920px;
+    background-color: peru;
+
+}
+.img_mybitmoji {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    left: 180px;
+    bottom: 167px;
+}
+
+.img_mybitmoji_tab {
+    position: relative;
+    text-align: center;
+    width: 150px;
+    height: 25px;
+    left: 360px;
+    bottom: 960px;
+    background-color: peru;
+}
+
+.img_myimage_altered {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    left: 270px;
+    bottom: 250px;
+}
+
+.myimage_altered_tab {
+    position: relative;
+    text-align: center;
+    width: 155px;
+    height: 25px;
+    left: 538px;
+    bottom: 837px;
+    background-color: peru;
+
+}
+
+.img_paulettecropped {
+    position: static;
+    width: 150px;
+    height: 150px;
+    left: 0px;
+    bottom: 332px;
+}
+
+.paulettecropped_tab {
+    position: relative;
+    text-align: center;
+    width: 150px;
+    height: 25px;
+    left: 720px;
+    bottom: 1000px;
+    background-color: peru;
+}
+
+.img_cat_bitmoji {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    left: 437px;
+    bottom: 410px;
+}
+
+.cat_bitmoji_tab {
+    position: relative;
+    text-align: center;
+    width: 140px;
+    height: 25px;
+    left: 900px;
+    bottom: 1041px;
+    background-color: peru;
+}
+
+.page_image {
+   width: 100px;
+   height: 100px; 
+}
